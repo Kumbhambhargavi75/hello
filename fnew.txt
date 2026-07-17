@@ -1,0 +1,2 @@
+hello this is my firsr demo of git
+modifying the file first time
